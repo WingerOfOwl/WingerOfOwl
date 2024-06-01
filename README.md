@@ -37,4 +37,5 @@ I am Ahmad Muharam Jiddan Wahono
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WingerOfOwl&theme=aura"/>
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WingerOfOwl&theme=aura&utcOffset=7"/>
 </a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WingerOfOwl&theme=aura" alt="WingerOfOwl" />
 </p>
