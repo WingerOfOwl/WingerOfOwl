@@ -21,6 +21,15 @@ I am Ahmad Muharam Jiddan Wahono
 ![Static Badge](https://img.shields.io/badge/Google%20Collab-l?style=for-the-badge&logo=google%20colab&logoColor=white&labelColor=%23F9AB00&color=%23F9AB00)
 ![Static Badge](https://img.shields.io/badge/Notion-l?style=for-the-badge&logo=notion&logoColor=white&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Go-l?style=for-the-badge&logo=go&logoColor=white&labelColor=%2300ADD8&color=%2300ADD8)
+![Static Badge](https://img.shields.io/badge/Github-l?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)
+![Static Badge](https://img.shields.io/badge/Git-l?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)
+![Static Badge](https://img.shields.io/badge/Firebase-l?style=for-the-badge&logo=firebase&logoColor=white&labelColor=%23FFCA28&color=%23FFCA28)
+![Static Badge](https://img.shields.io/badge/Figma-l?style=for-the-badge&logo=figma&logoColor=white&labelColor=%23F24E1E&color=%23F24E1E)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-l?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=%23007ACC&color=%23007ACC)
+![Static Badge](https://img.shields.io/badge/Appium-l?style=for-the-badge&logo=appium&logoColor=white&labelColor=%23EE376D&color=%23EE376D)
+![Static Badge](https://img.shields.io/badge/Android%20Studio-l?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=%233DDC84&color=%233DDC84)
+![Static Badge](https://img.shields.io/badge/Canva-l?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
+
 
 
 ## :bar_chart: Github Statistic
